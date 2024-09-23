@@ -1,1 +1,1 @@
-# Take screenshot of rcb logo and rcb webpage
+# TAKE SCREENSHOT OF RCB LOGO AND WEBPAGE 
